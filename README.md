@@ -18,5 +18,9 @@ This is a **Number Guessing Game** implemented using the **C programming languag
 ## 🎥 Demo Video
 
 
+
+https://github.com/user-attachments/assets/ca654b53-04d4-444a-995c-f1c84c18d50d
+
+
 ---
 
